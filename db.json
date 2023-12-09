@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "alias": "sigma1",
+      "email": "sigma1@gmail.com",
+      "password": "Qwerty123",
+      "createdAt": 1702126471331,
+      "id": 4
+    }
+  ],
+  "notes": [
+    {
+      "userId": 4,
+      "title": "y6y65y6",
+      "text": "y6y6y",
+      "createdAt": 1702126718312,
+      "id": 7
+    },
+    {
+      "userId": 4,
+      "title": "6y65y",
+      "text": "6y6y6y6",
+      "createdAt": 1702126721056,
+      "id": 8
+    },
+    {
+      "userId": 4,
+      "title": "6y65y",
+      "text": "y6y6",
+      "createdAt": 1702126723072,
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "title": "y6y65y",
+      "text": "6y6y65y",
+      "createdAt": 1702126725329,
+      "id": 10
+    },
+    {
+      "userId": 4,
+      "title": "y56y56y6",
+      "text": "y65y6y",
+      "createdAt": 1702126727320,
+      "id": 11
+    }
+  ]
+}
